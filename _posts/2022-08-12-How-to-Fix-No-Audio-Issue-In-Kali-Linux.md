@@ -28,7 +28,7 @@ We are going to make this command at the boot
 
 To run command at the boot
 
-![img](https://raw.githubusercontent.com/piragenth-ltfb/piragenth-ltfb.github.io/master/assets/Pictures/Screenshot_2022-08-12_08-29-42.png)
+![img](/assets/Pictures/Screenshot_2022-08-12_08-29-42.png)
 
 Under the Application and Autostart  
 Click add and enter name,description    
