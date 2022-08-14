@@ -38,3 +38,5 @@ For the command type
 systemctl --user start pulseaudio
 ```
 ---
+and click ok then reboot 
+It should work now!
