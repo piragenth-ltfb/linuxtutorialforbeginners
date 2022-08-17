@@ -1,11 +1,13 @@
 ---
 layout: post
-title: How to Fix No Audio Issue In Kali 
+
+title: How to Fix No Audio Issue In Kali Linux
+
 date: '2022-08-12'
 categories: Fix
 author: piragenth
 ---
-In this post i am going to show x for the no audio problem 
+In this post i am going to show the fix for the no audio problem in kali linux  
 
 
 ```bash
@@ -29,6 +31,8 @@ We are going to make this command at the boot
 To run command at the boot
 
 ![img](https://raw.githubusercontent.com/piragenthnetlify/ltfb.github.io/master/assets/Pictures/Screenshot_2022-08-12_08-29-42.png)
+=======
+
 
 Under the Application and Autostart  
 Click add and enter name,description    
@@ -38,3 +42,8 @@ For the command type
 systemctl --user start pulseaudio
 ```
 ---
+<<<<<<< HEAD
+=======
+and click ok then reboot 
+It should work now!
+>>>>>>> 9997c36c704583764ffa0947ffbdc34bf6534ddc
