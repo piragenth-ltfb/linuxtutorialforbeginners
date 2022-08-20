@@ -21,6 +21,10 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+# Google Analytics
+google_analytics: UA-226886336-1
+
+
 url: "https://www.linuxtutorialforbeginners.com"
 plugins:
   - jekyll-sitemap
