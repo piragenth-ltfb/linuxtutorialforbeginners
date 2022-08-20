@@ -42,8 +42,6 @@ For the command type
 systemctl --user start pulseaudio
 ```
 ---
-<<<<<<< HEAD
-=======
+
 and click ok then reboot 
 It should work now!
->>>>>>> 9997c36c704583764ffa0947ffbdc34bf6534ddc
