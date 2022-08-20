@@ -21,6 +21,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+url: "https://www.linuxtutorialforbeginners.com"
+plugins:
+  - jekyll-sitemap
 title: LTFB                          # the main title
 
 tagline: Linux-Tutorial-For-Beginners   # it will display as the sub-title
