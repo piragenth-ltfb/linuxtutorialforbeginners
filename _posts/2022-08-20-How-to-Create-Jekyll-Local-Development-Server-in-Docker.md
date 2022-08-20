@@ -2,6 +2,7 @@
 layout: post
 title: How to Create Jekyll Local Development Server in Docker
 date: '2022-08-20'
+images: [https://ddewaele.github.io/assets/images/jekyll_docker/logo.png]
 categories: [Docker,jekyll]
 author: piragenth
 ---
