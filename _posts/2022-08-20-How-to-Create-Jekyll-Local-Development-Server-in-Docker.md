@@ -37,7 +37,7 @@ I personally use [jekyll-theme-chripy](https://github.com/cotes2020/jekyll-theme
 
 ### optional : forking theme
 
-i recommend you to fork you repo. So after your development you can host your jekyll website for free in [Github-Pages](https://pages.github.com/){:target='blank'}, [Netlify](https://www.netlify.com/){:target='blank'}
+i recommend you to fork your favourite theme. So after your development you can host your jekyll website for free in [Github-Pages](https://pages.github.com/){:target='blank'}, [Netlify](https://www.netlify.com/){:target='blank'}
 [how to fork github repo](https://blog.devgenius.io/how-to-fork-a-repository-and-push-and-pull-with-github-48b296b2b623){:target='blank'}
 
 
