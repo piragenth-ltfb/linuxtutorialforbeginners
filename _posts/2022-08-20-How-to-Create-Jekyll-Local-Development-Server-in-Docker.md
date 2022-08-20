@@ -90,7 +90,7 @@ docker-compose up .
 ```
 If you use custom name for docker-compose file specify that also.
 ```bash 
-docker-compose -f (custom-docker-file-name.yaml)
+docker-compose -f custom-docker-file-name.yaml up 
 ```
 
 this will bring up the container in port 80.
