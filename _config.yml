@@ -21,12 +21,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-markdown: kramdown
-highlighter: rouge
+#markdown: kramdown
+#highlighter: rouge
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+#kramdown:
+#  input: GFM
+#  syntax_highlighter: rouge
 
 
 # Google Analytics
