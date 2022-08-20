@@ -7,7 +7,7 @@ author: piragenth
 ---
 
 ## What is Jekyll
-Jekyll is a [static site generator.](https://www.cloudflare.com/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.){:target='blank'}((SSC).It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+Jekyll is a [static site generator](https://www.cloudflare.com/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.){:target='blank'}((SSC).It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 ## Installing docker
 #### Updating repo 
