@@ -38,7 +38,7 @@ plugins:
   - jekyll-sitemap
 title: Linux-Tutorial-For-Beginners                          # the main title
 
-tagline: Linux-Tutorial-For-Beginners   # it will display as the sub-title
+tagline: Learn-About-Linux  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
