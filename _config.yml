@@ -30,7 +30,7 @@ timezone: Asia/Shanghai
 
 
 # Google Analytics
-google_analytics: UA-226886336-1
+#google_analytics: UA-226886336-1
 
 
 url: "https://www.linuxtutorialforbeginners.com"
@@ -60,7 +60,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/piragenth-ltfb       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -71,7 +71,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: UA-226886336-1                # fill in your Google Analytics ID
+  id: UA-226886336-1                 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
