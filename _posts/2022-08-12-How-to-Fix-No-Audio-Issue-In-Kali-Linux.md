@@ -14,6 +14,7 @@ systemctl --user enable pulseaudio
 systemctl --user start pulseaudio
 ```
 
+
 Install pulseaudio and start the pulseaudio
 
 Make sure NOT to start pulseaudio using sudo 
