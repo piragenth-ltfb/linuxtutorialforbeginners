@@ -82,5 +82,5 @@ The default user is 'root' and the password will the password set on docker-phpm
 
 Because we are using phpmyadmin in docker we can't use 'localhost'. So in this case we are going to use docker network's gateway ip
 
-# ![](/assets/Pictures/Phpmyadmin.pn)
-![](https://raw.githubusercontent.com/piragenth-ltfb/piragenth-ltfb.github.io/master/assets/Pictures/Phpmyadmin.png)
+![](/assets/Pictures/Phpmyadmin.png)
+
