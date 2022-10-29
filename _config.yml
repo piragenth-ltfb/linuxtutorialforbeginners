@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
+future: true
 #markdown: kramdown
 #highlighter: rouge
 

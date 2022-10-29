@@ -7,21 +7,22 @@ categories: [Docker,jekyll]
 tags: [Docker, How-TO, jekyll, Linux]
 author: piragenth
 ---
+
 ![](/assets/Pictures/0-containerize-mysql-and-phpmyadmin-using-docker-containers-banner.jpg)
 
-> Requirements
-#### * Install docker 
+## Requirements
+#### Install docker 
 ```bash
 sudo apt install docker.io -y
 ```
 
-> Create Docker Network (optional)
+## Create Docker Network (optional)
 
 ```bash
 docker network create {network-name}
 ```
 
-> Creating Docker Container
+## Creating Docker Container
 
 to create a file
 ```bash
@@ -59,7 +60,7 @@ services:
 docker-compose -f docker-phpmyadmin.yaml up 
 ```
 
-> Access phpmyadmin
+## Access phpmyadmin
 
 
 To get the docker network gateway ip:
