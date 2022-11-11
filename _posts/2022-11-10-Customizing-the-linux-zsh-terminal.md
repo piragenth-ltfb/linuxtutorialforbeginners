@@ -9,3 +9,6 @@ author: piragenth
 ---
 
 Hi There, As a linux enthusiast i always use terminal but many of the default linux terminals are boring and has no color, shape or functionality
+Today we will transform our terminal into wonderful and useable.
+
+>hello
