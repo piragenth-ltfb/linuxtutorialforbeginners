@@ -111,9 +111,11 @@ type source ~/.zshrc to take effect
 #More Tools for your Terminale
 
 >## rip
+
 rip is an improved version of the rm command. It is faster, safer, and user-friendly. rip sends deleted files to a temp location so they can be recovered using rip -u. I really like the simplicity and the revert feature, as I don't have to worry about accidentally deleting something using rm. While rip can be aliased to replace rm, the creators advise not doing that as you might get used to it and do rm on other systems where you cannot revert the delete.
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S rm-improved
@@ -126,11 +128,12 @@ cargo install rm-improved
 ```
 
 >## xcp
+
 xcp is a partial clone of the cp command. It is faster and more user-friendly with progress bars, parallel copying, .gitignore support, and so on. I like its simplicity and developer experience, especially the progress bars. I have aliased cp to xcp so I can use it everywhere.
 
-xcp
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S xcp
@@ -143,11 +146,12 @@ cargo install xcp
 alias cp='xcp'
 ```
 >## zoxide
+
 zoxide is a smarter cd replacement. It remembers the directories you visit, and you can jump to them without providing a full path. You can provide partial paths or even a word from the path. When there are similar paths, zoxide offers an interactive selection using fzf. It is super fast and works with all major shells. I like how it works, and I have aliased cd to z so I can use it everywhere.
 
-zoxide
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S zoxide
@@ -175,11 +179,12 @@ alias cd='z'
 ```
 
 >## dust
+
 Dust is an alternative for the du command. It is fast and has a better UX with nice visualization for disk usage.
 
-dust
 
 >### Installation
+
 ```bash 
 # Arch Linux
 yay -S dust
@@ -198,11 +203,12 @@ cargo install du-dust
 ```
 
 >## ripgrep
+
 ripgrep (rg) is a line-oriented search tool that recursively searches your current directory for a regex pattern. It is faster than grep and has many features like compressed files search, colorized output, smart case, file type filtering, multi-threading, and so on. It understands .gitignore files and skips hidden and ignored files. Here is a feature comparison with other similar tools, and yes, it is faster than all the other tools in the list.
 
-ripgrep
 
 >### Installation
+
 ```bash 
 # Arch Linux
 yay -S ripgrep
@@ -221,11 +227,12 @@ cargo install ripgrep
 ```
 
 >## fd
+
 fd is a simpler alternative to find. It is more intuitive to use and comes with sensible defaults. It is extremely fast due to parallel traversing and shows a modern colorized output and supports patterns and regex, parallel commands, smart case, understands .gitignore files, and so on. I have aliased find to fd as I could never remember what options to pass to get a basic find command working.
 
-fd
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S fd
@@ -244,9 +251,11 @@ cargo install fd-find
 ```
 
 >## sd
+
 sd is a find-and-replace CLI, and you can use it as a replacement for sed and awk. It is way more user-friendly and modern. It is also magnitudes faster than sed.
 
 >### Installation
+
 ```bash# Arch Linux
 yay -S sd
 # Fedora/CentOS
@@ -262,11 +271,12 @@ cargo install sd
 ```
 
 >## procs
+
 procs is a ps replacement. It provides colorized human-readable output, multi-column search, more information than ps, docker support, paging, watch mode, and tree view. It is a much more user-friendly and modern alternative to ps. You can filter by name and PID and use logical and/or operators to combine multiple filters. It also has a tree view which is very useful for seeing the process hierarchy. It can also show docker container names for the process running docker containers.
 
-procs
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S procs
@@ -285,11 +295,12 @@ cargo install procs
 ```
 
 >## bottom
+
 bottom is a top replacement with a nice terminal UI. It's quite feature-rich and customizable.
 
-bottom
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S bottom
@@ -309,11 +320,12 @@ cargo install bottom --locked
 ```
 
 >## Topgrade
+
 Topgrade is a fantastic utility if you prefer to keep your system up-to-date, like me. It detects most of the package managers on your system and triggers updates. It is configurable, so you can configure it to ignore certain package managers. On my system, it detected pacman, SDKMAN, Flatpak, snap, Homebrew, rustup, Linux firmware, Pip, and so on. Topgrade is cross-platform; you can use it on Windows, macOS, and Linux.
 
-topgrade
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S topgrade
@@ -328,11 +340,12 @@ cargo install topgrade --locked
 ```
 
 >## Broot
+
 Broot is a tree alternative with a better user experience, and you can use it to navigate a file structure. It's fast and respects .gitignore. You can cd into a directory from the tree view, open sub-directories in a panel, and even preview files. It has excellent keyboard navigation as well. It has many more features.
 
-broot
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S broot
@@ -347,11 +360,12 @@ cargo install broot --locked
 ```
 
 >## Tokei
+
 Tokei is a nice utility to count lines and stats of code. It is very fast, accurate, and has a nice output. It supports over 150 languages and can output in JSON, YAML, CBOR, and human-readable tables.
 
-tokei
 
 >### Installation
+
 ```bash
 # Arch Linux
 yay -S tokei
