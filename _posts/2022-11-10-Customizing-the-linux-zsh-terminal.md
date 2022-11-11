@@ -24,6 +24,7 @@ sudo pacman -S zsh
 and type 'zsh' to swith the shell
 
 >### Installing oh-my-zsh
+
 ```zsh
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
@@ -44,7 +45,7 @@ Then you need to enable the theme by typing
 
 >### Configure Powerlevel10k
 
-make sure to install [FiraCode NF](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf) font before starting the process
+make sure to install [FiraCode NF](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf){:target='blank'} font before starting the process
 
 type 
 ```bash
@@ -69,7 +70,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 ```
  
 
->#### ls Tools
+>#### ls tools
 
 Colorls:
 
@@ -82,8 +83,8 @@ sudo pacman -S ruby
 sudo gem install colorls
 ```
 some alternative for colorls 
-* [LSD](https://github.com/Peltoche/lsd)
-* [exa](https://github.com/ogham/exa)
+* [LSD](https://github.com/Peltoche/lsd){:target='blank'}
+* [exa](https://github.com/ogham/exa){:target='blank'}
 
 >## Activating all the plugins you have installed
 
