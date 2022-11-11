@@ -256,7 +256,8 @@ sd is a find-and-replace CLI, and you can use it as a replacement for sed and aw
 
 >### Installation
 
-```bash# Arch Linux
+```bash
+# Arch Linux
 yay -S sd
 # Fedora/CentOS
 dnf install sd
