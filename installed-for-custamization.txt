@@ -1,0 +1,10 @@
+oh-my-bash
+p10k
+lunarvim
+colorls
+bat
+zsh auto suggectoin
+zsh syntx highlighing
+nano-syntax higliginting
+ranger
+https://dev.to/deepu105/rust-easy-modern-cross-platform-command-line-tools-to-supercharge-your-terminal-4dd3
