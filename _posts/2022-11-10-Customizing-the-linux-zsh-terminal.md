@@ -108,7 +108,7 @@ DISABLE_LS_COLORS="true"
 
 type source ~/.zshrc to take effect 
 
-># More Tools for your Terminal
+>## More Tools for your Terminal
 
 
 >## rip
