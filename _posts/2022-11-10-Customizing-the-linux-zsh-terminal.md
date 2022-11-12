@@ -101,14 +101,15 @@ if [ -x "$(command -v colorls)" ]; then
     alias la="colorls -al"
 fi
 ```
-and make sure to uncomment thil line 
+and make sure to uncomment This line 
 ```bash 
 DISABLE_LS_COLORS="true"
 ```
 
 type source ~/.zshrc to take effect 
 
-# More Tools for your Terminale
+># More Tools for your Terminal
+
 
 >## rip
 
