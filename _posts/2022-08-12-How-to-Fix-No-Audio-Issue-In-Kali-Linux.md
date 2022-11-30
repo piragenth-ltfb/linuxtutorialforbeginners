@@ -1,10 +1,12 @@
 ---
-layout: post
-title: How to Fix No Audio Issue In Kali Linux
-date: '2022-08-12'
-categories: Fix
 author: piragenth
+categories:
+- Fix
+date: "2022-08-12"
+title: How to Fix No Audio Issue In Kali Linux
+url: /post/How-to-Fix-No-Audio-Issue-In-Kali-Linux/
 ---
+
 In this post i am going to show the fix for the no audio problem in kali linux  
 
 

@@ -1,17 +1,23 @@
 ---
-layout: post
-title: How to Create Jekyll Local Development Server in Docker
-date: '2022-08-20'
-#images: [https://ddewaele.github.io/assets/images/jekyll_docker/logo.png]
-categories: [Docker,jekyll]
-tags: [Docker, How-TO, jekyll, Linux]
 author: piragenth
+categories:
+- Docker
+- jekyll
+date: "2022-08-20"
+tags:
+- Docker
+- How-TO
+- jekyll
+- Linux
+title: How to Create Jekyll Local Development Server in Docker
+#url: /2022/08/20/How-to-Create-Jekyll-Local-Development-Server-in-Docker/
 ---
 
-![](/assets/Pictures/jekyll-and-docker.jpg)
+
+![](https://linuxtutorialforbeginners.com/assets/Pictures/jekyll-and-docker.jpg)
 
 ## What is Jekyll
-Jekyll is a [static site generator](https://www.cloudflare.com/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.){:target='blank'}(SSC).It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+Jekyll is a [static site generator](https://www.cloudflare.com/learning/performance/static-site-generator/#:~:text=A%20static%20site%20generator%20is,to%20users%20ahead%20of%20time.)(SSC).It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
 
 ## Installing docker
 #### Updating repo 
@@ -30,26 +36,24 @@ sudo apt install docker-compose
 
 Jekyll has an extensive theme system that allows you to leverage community-maintained templates and styles to customize your site's presentation. Jekyll themes specify plugins and package up assets, layouts, includes, and stylesheets in a way that can be overridden by your site's content.
 
-I personally use [jekyll-theme-chripy](https://github.com/cotes2020/jekyll-theme-chripy){:target='blank'} in my website. So i am going use this theme as an example in this tutorial.you can choose whatever theme you like.
+I personally use [jekyll-theme-chripy](https://github.com/cotes2020/jekyll-theme-chripy) in my website. So i am going use this theme as an example in this tutorial.you can choose whatever theme you like.
 
 ### Pick up a theme
 
-* [jamstackthemes.dev](https://jamstackthemes.dev){:target='blank'}
-* [jekyllthemes.org](https://jekllthemes.org){:target='blank'}
-* [jekyllthemes.io](https://jekyllthemes.io){:target='blanka'}
-* [jekyll-themes.com](https://jekyll-themes.com){:target='blank'}
+* [jamstackthemes.dev](https://jamstackthemes.dev)
+* [jekyllthemes.org](https://jekllthemes.org)
+* [jekyllthemes.io](https://jekyllthemes.io)
+* [jekyll-themes.com](https://jekyll-themes.com)
 
-
-
-### Optional: forking theme
+## Optional: forking theme
 
 I recommend you to fork your favourite theme.
-[how to fork github repo](https://blog.devgenius.io/how-to-fork-a-repository-and-push-and-pull-with-github-48b296b2b623){:target='blank'}
+[how to fork github repo](https://blog.devgenius.io/how-to-fork-a-repository-and-push-and-pull-with-github-48b296b2b623)
 
 
 
 
- So you can host your jekyll website for free in [Github-Pages](https://pages.github.com/){:target='blank'}, [Netlify](https://www.netlify.com/){:target='blank'}
+ So you can host your jekyll website for free in [Github-Pages](https://pages.github.com/), [Netlify](https://www.netlify.com/)
 
 
 

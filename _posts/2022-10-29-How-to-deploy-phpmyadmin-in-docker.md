@@ -1,14 +1,20 @@
 ---
-layout: post
-title: How to Deploy phpMyAdmin in Docker
-date: '2022-10-29'
-#images: [https://ddewaele.github.io/assets/images/jekyll_docker/logo.png]   
-categories: [Docker,jekyll]
-tags: [Docker, How-TO, jekyll, Linux]
 author: piragenth
+categories:
+- Docker
+- jekyll
+date: "2022-10-29"
+tags:
+- Docker
+- How-TO
+- jekyll
+- Linux
+title: How to Deploy phpMyAdmin in Docker
+#url: /How-to-deploy-phpmyadmin-in-docker/
 ---
 
-![](/assets/Pictures/0-containerize-mysql-and-phpmyadmin-using-docker-containers-banner.jpg)
+
+![](https://linuxtutorialforbeginners.com/assets/Pictures/0-containerize-mysql-and-phpmyadmin-using-docker-containers-banner.jpg)
 
 ## Requirements
 #### Install docker 
@@ -71,7 +77,7 @@ docker inspect phpmyadmin
 
 In the output you will find gateway under 'gateway:'
 
-![](/assets/Pictures/docker-networks-gateway.png)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/docker-networks-gateway.png)
 
 
 
@@ -82,5 +88,4 @@ The default user is 'root' and the password will the password set on docker-phpm
 
 Because we are using phpmyadmin in docker we can't use 'localhost'. So in this case we are going to use docker network's gateway ip
 
-![](/assets/Pictures/Phpmyadmin.png)
-
+![](https://linuxtutorialforbeginners.com/assets/Pictures/Phpmyadmin.png)

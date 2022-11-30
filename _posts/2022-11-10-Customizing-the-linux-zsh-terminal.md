@@ -1,12 +1,14 @@
 ---
-layout: post
-title: Customizing the linux zsh terminal | change the way you use linux 
-date: '2022-11-10'
-#images: [https://ddewaele.github.io/assets/images/jekyll_docker/logo.png]   
-categories: [Linux]
-tags: [Linux]
 author: piragenth
+categories:
+- Linux
+date: "2022-11-10"
+tags:
+- Linux
+title: Customizing the linux zsh terminal | change the way you use linux
+#url: /2022/11/10/Customizing-the-linux-zsh-terminal/
 ---
+
 
 Hi There, As a linux enthusiast i always use terminal but many of the default linux terminals are boring and has no color, shape or functionality
 Today we will transform our terminal into wonderful and usable.
@@ -30,7 +32,7 @@ and type 'zsh' to swith the shell
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
->## [PowerLevel10K](https://github.com/romkatv/powerlevel10k){:target='blank'}
+>## [PowerLevel10K](https://github.com/romkatv/powerlevel10k)
 
 * in the command line 
 ```bash
@@ -46,7 +48,7 @@ Then you need to enable the theme by typing
 
 >### Configure Powerlevel10k
 
-make sure to install [FiraCode NF](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf){:target='blank'} font before starting the process
+make sure to install [FiraCode NF](https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/FiraCode/Medium/complete/Fira%20Code%20Medium%20Nerd%20Font%20Complete.ttf) font before starting the process
 
 type 
 ```bash
@@ -84,8 +86,8 @@ sudo pacman -S ruby
 sudo gem install colorls
 ```
 some alternative for colorls 
-* [LSD](https://github.com/Peltoche/lsd){:target='blank'}
-* [exa](https://github.com/ogham/exa){:target='blank'}
+* [LSD](https://github.com/Peltoche/lsd)
+* [exa](https://github.com/ogham/exa)
 
 >## Activating all the plugins you have installed
 
