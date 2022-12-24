@@ -41,7 +41,7 @@ title: Linux-Tutorial-For-Beginners                          # the main title
 tagline: Learn-About-Linux  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A website linux.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.linuxtutorialforbeginners.com'
@@ -105,7 +105,7 @@ avatar: '/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
 toc: true
 
 comments:
-  active: utterances       # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:        # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -179,7 +179,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: assets/Pictures
     values:
       swcache: true
   - scope:
