@@ -2,7 +2,7 @@
 author: piragenth
 date: "2022-12-17"
 tags:
-- Linux
+  - Linux
 title: Setting up squid -HTTPS SSL proxy cache
 #url: /2022/08/20/How-to-Create-Jekyll-Local-Development-Server-in-Docker/
 ---
