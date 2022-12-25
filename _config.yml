@@ -23,7 +23,7 @@ plugins:
  - jekyll-sitemap
 
 
-title: LinuxTutorialForBeginners.com                       # the main title
+title: LTFB                       # the main title
 
 tagline:  Learn about Linux   # it will display as the sub-title
 
