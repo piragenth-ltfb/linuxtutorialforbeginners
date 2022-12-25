@@ -14,7 +14,7 @@ title: How to Deploy phpMyAdmin in Docker
 ---
 
 
-![](https://linuxtutorialforbeginners.com/assets/Pictures/0-containerize-mysql-and-phpmyadmin-using-docker-containers-banner.jpg)
+![](assets/Pictures/0-containerize-mysql-and-phpmyadmin-using-docker-containers-banner.jpg)
 
 ## Requirements
 #### Install docker 
