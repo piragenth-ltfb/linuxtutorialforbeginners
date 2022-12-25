@@ -86,8 +86,8 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/piragenth-ltfb/piragenth-ltfb.github.io/master'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/home/piragenth/Documents/GitHub/linuxtutorialforbeginners/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
-
+#avatar: '/home/piragenth/Documents/GitHub/linuxtutorialforbeginners/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
+avatar: 'https://en.wikipedia.org/wiki/File:Tux.svg'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
