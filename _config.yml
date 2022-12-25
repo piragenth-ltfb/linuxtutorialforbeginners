@@ -87,7 +87,7 @@ img_cdn: 'https://raw.githubusercontent.com/piragenth-ltfb/piragenth-ltfb.github
 
 # the avatar on sidebar, support local or CORS resources
 #avatar: '/home/piragenth/Documents/GitHub/linuxtutorialforbeginners/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
-avatar: '/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
+avatar: 'https://linuxtutorialforbeginners.com/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
