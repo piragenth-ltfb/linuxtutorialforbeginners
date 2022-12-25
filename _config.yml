@@ -87,7 +87,7 @@ img_cdn: 'https://raw.githubusercontent.com/piragenth-ltfb/piragenth-ltfb.github
 
 # the avatar on sidebar, support local or CORS resources
 #avatar: '/home/piragenth/Documents/GitHub/linuxtutorialforbeginners/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
-avatar: 'https://ltfb.linuxtutorialforbeginners.com/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
+avatar: '/assets/Pictures/1_0k_-eyWyc_fQztDqck39lQ.png'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
@@ -164,11 +164,11 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: /assets/img/favicons
     values:
       swcache: true
   - scope:
-      path: assets/js/dist
+      path: /assets/js/dist
     values:
       swcache: true
 
