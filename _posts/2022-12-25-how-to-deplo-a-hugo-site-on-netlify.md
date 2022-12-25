@@ -1,11 +1,10 @@
 ---
-title: "2022 12 25 How to Deplo a Hugo Site on Netlify"
+title: "How to Deplo a Hugo Site on Netlify"
 date: 2022-12-25T07:41:52+05:30
 draft: false
 ---
 
 
-import { H1, H2, H3, H4, H5, H6, Code } from '@theme-ui/components'
 
 # Introduction to Netlify
 
