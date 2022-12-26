@@ -23,12 +23,12 @@ plugins:
  - jekyll-sitemap
 
 
-title: LTFB                       # the main title
+title:   Linux for Beginners                     # the main title
 
-tagline:  Learn about Linux   # it will display as the sub-title
+tagline: Your one-stop guide to mastering Linux  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A website for linux people.
+  Linuxtutorialforbeginners.com is a website that provides a comprehensive guide to using the Linux operating system for beginners. The website offers a range of tutorials and resources to help new users get started with Linux, including step-by-step guides to installation and configuration, as well as tips and tricks for using common Linux applications and tools. Whether you are a complete novice or just looking to brush up on your Linux skills, linuxtutorialforbeginners.com is a valuable resource for anyone looking to learn more about this powerful and flexible operating system.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.linuxtutorialforbeginners.com'
