@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-
+![](https://linuxtutorialforbeginners.com/assets/Pictures/hugo-netlify.png)
 # Introduction to Netlify
 
 Netlify is a cloud-based platform that makes it easy to build, deploy, and host static websites. It is a popular choice for developers because of its simplicity and ease of use.
