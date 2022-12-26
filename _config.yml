@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 plugins: 
  - jekyll-sitemap
- - google_adsense
+   # - google_adsense
 
 safe: true
 
