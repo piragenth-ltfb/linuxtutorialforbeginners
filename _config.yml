@@ -25,9 +25,9 @@ plugins:
 
 safe: true
 
-whitelist:
-  - jekyll-sitemap
-  - google_adsense
+  #whitelist:
+  #- jekyll-sitemap
+  #- google_adsense
 
 
 title:   Linux for Beginners                     # the main title
