@@ -1,3 +1,9 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
 Welcome to Linux for Beginners! We are a website dedicated to providing comprehensive guides and resources for anyone looking to learn more about the Linux operating system.
 
 Whether you are new to Linux or just looking to brush up on your skills, our tutorials and resources are designed to help you get the most out of this powerful and flexible platform. From installation and configuration to tips and tricks for using common Linux applications, we've got you covered.
