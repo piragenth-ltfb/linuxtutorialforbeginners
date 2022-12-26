@@ -21,6 +21,13 @@ timezone: Asia/Shanghai
 
 plugins: 
  - jekyll-sitemap
+ - google_adsense
+
+safe: true
+
+whitelist:
+  - jekyll-sitemap
+  - google_adsense
 
 
 title:   Linux for Beginners                     # the main title
