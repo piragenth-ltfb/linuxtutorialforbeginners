@@ -1,5 +1,5 @@
 ---
-title: "How to Deplo a Hugo Site on Netlify"
+title: "How to Deploy a Hugo Site on Netlify"
 date: 2022-12-25T07:41:52+05:30
 draft: false
 ---
