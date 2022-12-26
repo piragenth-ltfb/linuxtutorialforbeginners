@@ -15,6 +15,8 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo-data"
 end
 #gem "google_adsense"
+gem 'jekyll-paginate'
+gem 'jekyll-seo-tag'
 gem 'sassc', '~> 2.1.0'
 gem "jekyll-sass-converter", "~> 2.0"
 # Performance-booster for watching directories on Windows
