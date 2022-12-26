@@ -21,8 +21,8 @@ timezone: Asia/Shanghai
 
 plugins: 
  - jekyll-sitemap
-   # - google_adsense
-
+ - jekyll-paginate
+ - jekyll-seo-tag
 safe: true
 
   #whitelist:
