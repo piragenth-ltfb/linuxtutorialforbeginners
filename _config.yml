@@ -23,7 +23,7 @@ plugins:
  - jekyll-sitemap
  - jekyll-paginate
  - jekyll-seo-tag
-
+ - google_adsense
 
   #whitelist:
   #- jekyll-sitemap
