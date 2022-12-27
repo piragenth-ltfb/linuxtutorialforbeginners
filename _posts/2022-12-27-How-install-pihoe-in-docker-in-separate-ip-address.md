@@ -10,7 +10,7 @@ tags:
 - Linux
 title: How to install pihole in docker in separate ip address
 ---
-
+https://linuxtutorialforbeginners.com/assets/Pictures/update-pihole-running-in-a-docker-container.png 
 # What is Pi-hole and why would you want to use it?
 
 Pi-hole is an open-source network-wide ad blocker that works by intercepting DNS (Domain Name System) queries and blocking them if they match a list of known ad-serving domains. This can help to reduce the amount of unwanted ads that you see when browsing the web, and can also help to improve your online privacy by blocking tracking domains.
