@@ -44,29 +44,29 @@ Overall, Linux distributions offer a wide range of flexibility and customization
 
 # Basic Terms of linux 
 
-Kernel: The kernel is the core of the operating system and is responsible for managing the hardware and software resources of the system. It provides the interface between the hardware and the software programs running on the system.
+**Kernel**: The kernel is the core of the operating system and is responsible for managing the hardware and software resources of the system. It provides the interface between the hardware and the software programs running on the system.
 
-Shell: The shell is a command-line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (bash).
+**Shell**: The shell is a command-line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (bash).
 
-Distribution: A Linux distribution, also known as a distro, is a pre-packaged version of the Linux operating system that includes a specific set of software and tools. There are hundreds of different Linux distributions available, each with its own unique set of features and tools.
+**Distribution**: A Linux distribution, also known as a distro, is a pre-packaged version of the Linux operating system that includes a specific set of software and tools. There are hundreds of different Linux distributions available, each with its own unique set of features and tools.
 
-Package manager: A package manager is a tool that is used to install, update, and remove software packages on a Linux system. Different Linux distributions use different package managers, such as APT (Advanced Package Tool) on Ubuntu and Fedora's DNF (Dandified Yum).
+**Package manager**: A package manager is a tool that is used to install, update, and remove software packages on a Linux system. Different Linux distributions use different package managers, such as APT (Advanced Package Tool) on Ubuntu and Fedora's DNF (Dandified Yum).
 
-Repository: A repository is a central location where software packages are stored and made available for download and installation. Linux distributions typically maintain their own repositories of software packages that are specific to that distribution.
+**Repository**: A repository is a central location where software packages are stored and made available for download and installation. Linux distributions typically maintain their own repositories of software packages that are specific to that distribution.
 
-Open-source: Open-source refers to software that is freely available for anyone to use, modify, and distribute. Linux is an open-source operating system, which means that the source code for the operating system is available for anyone to view and modify. This has led to a large and active community of developers who contribute to the development of the OS and create a wide variety of software programs that run on it.
+**Open-source**: Open-source refers to software that is freely available for anyone to use, modify, and distribute. Linux is an open-source operating system, which means that the source code for the operating system is available for anyone to view and modify. This has led to a large and active community of developers who contribute to the development of the OS and create a wide variety of software programs that run on it.
 
-GUI: GUI stands for "graphical user interface," which is a type of user interface that allows users to interact with the operating system using visual elements such as icons, menus, and buttons. Most Linux distributions include a GUI, which makes them easy to use for people who are not comfortable using a command-line interface.
+**GUI**: GUI stands for "graphical user interface," which is a type of user interface that allows users to interact with the operating system using visual elements such as icons, menus, and buttons. Most Linux distributions include a GUI, which makes them easy to use for people who are not comfortable using a command-line interface.
 
-Terminal: A terminal is a command-line interface (CLI) that allows users to enter commands and interact with the operating system. Terminals can be opened in a GUI environment, or they can be accessed through a terminal emulator program.
+**Terminal**: A terminal is a command-line interface (CLI) that allows users to enter commands and interact with the operating system. Terminals can be opened in a GUI environment, or they can be accessed through a terminal emulator program.
 
-Root user: The root user, also known as the superuser, is a special user account with administrative privileges that allows the user to make changes to the system. It is important to use the root user with caution, as making changes as the root user can have serious consequences if not done correctly.
+**Root user**: The root user, also known as the superuser, is a special user account with administrative privileges that allows the user to make changes to the system. It is important to use the root user with caution, as making changes as the root user can have serious consequences if not done correctly.
 
-Permissions: Permissions are settings that control who is allowed to access and modify files and directories on a Linux system. There are three types of permissions: read, write, and execute.
+**Permissions**: Permissions are settings that control who is allowed to access and modify files and directories on a Linux system. There are three types of permissions: read, write, and execute.
 
-Directory: A directory, also known as a folder, is a container for storing files and other directories. The root directory, represented by the / symbol, is the top-level directory on a Linux system and contains all other directories and files.
+**Director**y: A directory, also known as a folder, is a container for storing files and other directories. The root directory, represented by the / symbol, is the top-level directory on a Linux system and contains all other directories and files.
 
-Command-line arguments: Command-line arguments are additional options or parameters that can be passed to a command when it is run from the command-line interface. They are often used to modify the behavior of a command or to specify the input or output for a command.
+**Command-line arguments**: Command-line arguments are additional options or parameters that can be passed to a command when it is run from the command-line interface. They are often used to modify the behavior of a command or to specify the input or output for a command.
 
 # Desktop Environments
 
