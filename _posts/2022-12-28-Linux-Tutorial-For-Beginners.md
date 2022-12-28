@@ -11,6 +11,7 @@ tags:
 - linux
 ---
 
+
 # What is Linux?
 
 ![](https://linuxtutorialforbeginners.com/assets/Pictures/Linux-Tutorial.webp)
