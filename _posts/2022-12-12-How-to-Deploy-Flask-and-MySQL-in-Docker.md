@@ -1,4 +1,5 @@
 ---
+author: piragenth
 title: "How to Deploy Flask and MySQL in Docker"
 date: 2022-11-22T08:11:49+05:30
 draft: false

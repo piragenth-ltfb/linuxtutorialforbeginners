@@ -1,4 +1,5 @@
 ---
+author: piragenth
 title: "How to Deploy Hugo Site in Cloudflare Pages"
 date: 2022-12-25T07:15:52+05:30
 draft: false
