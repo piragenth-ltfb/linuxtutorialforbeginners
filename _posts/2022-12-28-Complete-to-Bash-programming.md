@@ -98,25 +98,29 @@ In bash scripts, you can add comments by using the "#" symbol. Comments are used
 
 For example:
 
-Copy code
+```bash
 # This is a comment
 echo "Hello, World!" # This is also a comment
+```
 Variables
 In bash scripts, you can use variables to store and manipulate data. Variables are denoted by a dollar sign ($), and they can contain numbers, strings, or arrays.
 
 To assign a value to a variable, use the following syntax:
 
-Copy code
+```bash
 var_name=value
+```
 For example:
 
-Copy code
+```bash
 name="John"
 age=30
+```
 To use a variable in a script, use the dollar sign and the variable name, like this:
 
-Copy code
+```bash
 echo "My name is $name and I am $age years old."
+```
 This will output "My name is John and I am 30 years old."
 
 You can also use variables in arithmetic operations by enclosing them in double parentheses, like this:
