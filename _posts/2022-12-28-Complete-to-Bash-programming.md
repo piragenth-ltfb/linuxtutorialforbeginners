@@ -174,8 +174,8 @@ This will output "You are an adult."
 
 You can also use the elif statement to specify additional conditions to check. For example:
 
-```bashage=17
-
+```bash
+age=17
 if [ $age -gt 18 ]; then
   echo "You are an adult."
 elif [ $age -gt 12 ]; then
