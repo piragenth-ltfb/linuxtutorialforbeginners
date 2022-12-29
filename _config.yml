@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 # ↓ --------------------------
 
 plugins: 
- - jekyll-sitemap
+# - jekyll-sitemap
  - jekyll-paginate
  - jekyll-seo-tag
 # - google_adsense
