@@ -15,6 +15,7 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo-data"
 end
 #gem "google_adsense"
+gem "jekyll-sitemap"
 gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
 gem 'sassc', '~> 2.1.0'
