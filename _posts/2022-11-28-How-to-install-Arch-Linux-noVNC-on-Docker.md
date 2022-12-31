@@ -15,7 +15,7 @@ categories:
 
 ## Introduction:
 
-Docker is a powerful tool that allows you to run isolated environments called "containers" on a host system. This can be useful for testing, development, or simply running applications in a lightweight and isolated environment. In this tutorial, we'll show you how to run Arch Linux with KDE desktop environment and noVNC in a Docker container, allowing you to access the desktop environment remotely through a web browser.
+Docker is a powerful tool that allows you to run isolated environments called "containers" on a host PC. This can be useful for testing, development, or simply running applications in a lightweight and isolated environment. In this tutorial, we'll show you how to run Arch Linux with KDE desktop environment and noVNC in a Docker container, allowing you to access the desktop environment remotely through a browser.
 
 ## Prerequisites:
 
