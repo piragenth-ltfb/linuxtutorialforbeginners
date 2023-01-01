@@ -2,11 +2,11 @@
 Author: Piragenth
 category:
 - Docker
-- How
+- How-To
 Date: "2022-10-29"
-Comment:
+Categories:
 - Docker
-- How
+- How-to
 - Linux
 Title: How to set docker pihole in a separate thread address
 ---
@@ -28,9 +28,9 @@ Before you start building Pi-hole on Docker using Macvlan, you need to make sure
 
 To install Pi-hole on Docker using Macvlan, the first step is to create a new Macvlan network. This can be done by running the following command in a terminal window:
 
-``head
+```bash
 create docker network -d macvlan --subnet=192.168.1.0/24 --gateway=192.168.1.1 -o parent=eth0 macvlan_network
-``
+```
 
 This command creates a new Macvlan network named "macvlan_network" using the Ethernet interface "eth0" as the primary interface. Also the subnet is 192.168.1.0/24 and the gateway is 192.168.1.1. You may need to adjust this value to match your network configuration.
 
@@ -38,9 +38,9 @@ This command creates a new Macvlan network named "macvlan_network" using the Eth
 
 Macvlan is installed and you can now run the Docker Pi-hole container on your Mac. To do this, run the following command:
 
-``head
+```bash
 docker run -d --name pihole --restart = always -p 53:53/tcp -p 53:53/udp -p 80:80 -v/etc/pihole/:/etc/pihole/-v/etc/ dnsmasq.d/:/etc/dnsmasq.d/ --network macvlan_network --ip 192.168.1.100 pihole/pihole
-``
+```
 
 
 This command starts a new Docker container named "pihole" and linked to "macvlan_".

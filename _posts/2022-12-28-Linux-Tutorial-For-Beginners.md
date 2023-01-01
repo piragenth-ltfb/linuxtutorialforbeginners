@@ -1,6 +1,6 @@
 ---
 Author: Piragenth
-Title: A Beginner's Guide to Linux | The Complete Beginner's Guide to master linux
+Title: A Beginner Guide to Linux | The Complete Beginner Guide to master linux
 Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 category:
@@ -44,7 +44,7 @@ In general, Linux distributions offer a wide range of flexibility and customizat
 
 **Kernel**: Kernel is the core of the operating system and is responsible for managing our system's hardware and software. It provides an interface between hardware and software applications running in the system.
 
-**Shell**: A shell is a command line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (head).
+**Shell**: A shell is a command line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (bash).
 
 **Distribution**: A Linux distribution, also known as a distro, is a prepackaged version of the Linux operating system that includes a set of specialized software and tools. Linux There are hundreds of different Linux distributions, each with unique features and tools.
 
