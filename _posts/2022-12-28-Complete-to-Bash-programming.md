@@ -1,6 +1,6 @@
 ---
-Author: Pirate
-Title: "Beginner's Guide | The Complete Beginner's Guide"
+Author: Piragenth
+Title: Beginner's Guide to bash programming | The Complete Beginner's Guide
 Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 category:

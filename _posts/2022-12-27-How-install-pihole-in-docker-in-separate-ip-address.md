@@ -1,5 +1,5 @@
 ---
-Author: Pirate
+Author: Piragenth
 category:
 - Docker
 - How
@@ -10,7 +10,7 @@ Comment:
 - Linux
 Title: How to set docker pihole in a separate thread address
 ---
-! [] (https://linuxtutorialforbeginners.com/assets/Pictures/update-pihole-running-in-a-docker-container.png)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/update-pihole-running-in-a-docker-container.png)
 # What is Pi-hole and why should you use it?
 
 Pi-hole is an open source online ad blocker that works by intercepting Domain Name System (DNS) queries and blocking if it matches a list of specific ad serving domains. This can help reduce the number of unwanted ads you see when you're online and improve your online privacy by blocking tracking domains.

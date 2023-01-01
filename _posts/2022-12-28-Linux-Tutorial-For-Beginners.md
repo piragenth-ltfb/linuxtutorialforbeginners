@@ -1,6 +1,6 @@
 ---
-Author: Pirate
-Title: "A Beginner's Guide to Linux | The Complete Beginner's Guide"
+Author: Piragenth
+Title: A Beginner's Guide to Linux | The Complete Beginner's Guide to master linux
 Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 category:
