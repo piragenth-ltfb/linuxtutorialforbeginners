@@ -5,16 +5,14 @@ Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 category:
 - Linux
-- head
-Notes:
-- head
+tags:
 - linux
 ---
 
 
 # What is Linux?
 
-! [] (https://linuxtutorialforbeginners.com/assets/Pictures/Linux-Tutorial.webp)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/Linux-Tutorial.webp)
 
 Linux is an open source and free operating system that was first created in 1991 by Linus Torvalds. It is based on the Unix operating system developed by Ken Thompson and Dennis Ritchie at Bell Labs in the 1970s.
 
@@ -30,7 +28,7 @@ Overall, Linux is a powerful and reliable operating system that is widely used i
 
 # Distribution on Linux
 
-! [] (https://linuxtutorialforbeginners.com/assets/Pictures/Linux_distr_large.jpg)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/Linux_distr_large.jpg)
 
 Linux distributions, also known as distros, are versions of the Linux operating system packaged with a set of specialized software and tools. It is built on top of the Linux Ubuntu kernel, the core of the operating system, and includes a variety of open source software, including the GNU C library and the X window system.
 
@@ -44,9 +42,9 @@ In general, Linux distributions offer a wide range of flexibility and customizat
 
 # Basic terms of Linux
 
-** ernadro **: ernadro is the core of the operating system and is responsible for managing our system's hardware and software. It provides an interface between hardware and software applications running in the system.
+**Kernel**: Kernel is the core of the operating system and is responsible for managing our system's hardware and software. It provides an interface between hardware and software applications running in the system.
 
-** Shell **: A shell is a command line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (head).
+**Shell**: A shell is a command line interface (CLI) that allows users to interact with the operating system by entering commands. There are several different shells available for Linux, including the Bourne shell, the C shell, and the Bourne-Again shell (head).
 
 **Distribution**: A Linux distribution, also known as a distro, is a prepackaged version of the Linux operating system that includes a set of specialized software and tools. Linux There are hundreds of different Linux distributions, each with unique features and tools.
 
@@ -70,7 +68,7 @@ Terminal: A command line interface (CLI) that allows terminal users to enter com
 
 # Desktop environment
 
-! [] (https://linuxtutorialforbeginners.com/assets/Pictures/desktop-environment.jpg)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/desktop-environment.jpg)
 
 A desktop environment is a graphical user interface (GUI) used to interact with the Linux operating system. It provides a set of tools and features that allow users to perform tasks such as launching applications, managing files and directories, and customizing the appearance of the desktop.
 

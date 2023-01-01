@@ -5,13 +5,11 @@ Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 category:
 - Linux
-- head
-Notes:
-- head
+tags:
 - linux
 ---
 
-! [] (https://linuxtutorialforbeginners.com/assets/Pictures/bash-script.png)
+![](https://linuxtutorialforbeginners.com/assets/Pictures/bash-script.png)
 
 Welcome to this comprehensive guide to scripting! Head Script is a powerful tool to automate tasks and make them more efficient. This is widely used in the world of Linux Ubuntu and Unix and can be a useful skill for any system administrator or developer.
 
