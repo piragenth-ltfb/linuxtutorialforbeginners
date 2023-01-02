@@ -1,6 +1,6 @@
 ---
 author: Piragenth
-title: A Beginner Guide to Linux | The Complete Beginner Guide to master linux
+title: A Beginner's Guide to Linux | The Complete Beginner's Guide to master linux
 Date: 2022-12-28T14:56:35 + 05:30
 draft: false
 categories:
