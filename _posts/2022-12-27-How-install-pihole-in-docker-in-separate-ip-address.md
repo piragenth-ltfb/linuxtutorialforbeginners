@@ -1,14 +1,14 @@
 ---
-Author: Piragenth
-category:
+author: Piragenth
+tags:
 - Docker
 - How-To
 Date: "2022-10-29"
-Categories:
+categories:
 - Docker
 - How-to
 - Linux
-Title: How to set docker pihole in a separate thread address
+title: How to install pihole in docker in separate ip address
 ---
 ![](https://linuxtutorialforbeginners.com/assets/Pictures/update-pihole-running-in-a-docker-container.png)
 # What is Pi-hole and why should you use it?

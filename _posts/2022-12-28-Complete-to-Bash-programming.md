@@ -1,9 +1,9 @@
 ---
-Author: Piragenth
-Title: Beginner's Guide to bash programming | The Complete Beginner's Guide
+author: Piragenth
+title: Beginner's Guide to bash programming | The Complete Beginner's Guide
 Date: 2022-12-28T14:56:35 + 05:30
 draft: false
-category:
+categories:
 - bash
 - Linux
 tags:

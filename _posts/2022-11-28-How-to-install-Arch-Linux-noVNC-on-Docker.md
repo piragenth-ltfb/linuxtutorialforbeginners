@@ -6,7 +6,7 @@ label:
   - Docker
   - How
   - Arch Linux
-Category:
+categories:
   - Linux
   - Docker
 ---

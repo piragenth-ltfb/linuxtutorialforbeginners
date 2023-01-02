@@ -1,6 +1,6 @@
 ---
-Author: Piragenth
-Title: Jekyll vs wordpress
+author: Piragenth
+title: Jekyll vs wordpress 
 Date: 2023-1-1
 draft: false
 category:
