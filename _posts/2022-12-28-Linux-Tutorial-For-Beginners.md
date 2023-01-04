@@ -56,7 +56,7 @@ In general, Linux distributions offer a wide range of flexibility and customizat
 
 **GUI**: A GUI is a type of user interface that allows the user to interact with the operating system using visual elements such as icons, menus, and buttons. Most Linux distributions have a GUI that makes it easy to use for people who are not comfortable using a command line interface.
 
-Terminal: A command line interface (CLI) that allows terminal users to enter commands and interact with the operating system. The terminal can be opened in a GUI environment or accessed through a terminal emulator program.
+**Terminal**: A command line interface (CLI) that allows terminal users to enter commands and interact with the operating system. The terminal can be opened in a GUI environment or accessed through a terminal emulator program.
 
 **Root User**: The root user, also known as superuser, is a special user account with administrative privileges that allows the user to modify the system. It is important to use the root user with caution because it can cause serious consequences if the root user does not modify it properly.
 
