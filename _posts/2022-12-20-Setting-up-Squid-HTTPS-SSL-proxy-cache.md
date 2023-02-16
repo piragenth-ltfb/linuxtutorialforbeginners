@@ -3,7 +3,7 @@ author: piragenth
 date: "2022-12-17"
 tags:
   - Linux
-title: Setting up squid -HTTPS SSL proxy cache
+title: Setting up squid -HTTPS SSL proxy cache Server
 #url: /2022/08/20/How-to-Create-Jekyll-Local-Development-Server-in-Docker/
 ---
 ![](https://phoenixnap.com/kb/wp-content/uploads/2021/04/set-up-and-install-squid-proxy-on-ubuntu.png)
